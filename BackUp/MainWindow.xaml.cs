@@ -30,5 +30,10 @@ namespace BackUp
             InitializeComponent();
             log.Debug(":::: 컴포넌트 초기화 완료 :::");
         }
+
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
