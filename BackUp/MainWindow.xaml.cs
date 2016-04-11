@@ -26,9 +26,9 @@ namespace BackUp
 
         public MainWindow()
         {
-            log.Debug(":::: 시작 :::");
+            log.Debug(":::: 프로그램 시작 :::");
             InitializeComponent();
-            log.Debug(":::: 종료 :::");
+            log.Debug(":::: 컴포넌트 초기화 완료 :::");
         }
     }
 }
